@@ -8,21 +8,6 @@ Live Demo
 
 ✅ Play drum sounds by clicking on the buttons.✅ Play drum sounds by pressing the keyboard keys: W, A, S, D, J, K, L.✅ Each key/button plays a different drum sound.
 
-🗂️ Project Structure
-
-.
-├── index.html          # Main HTML file
-├── style.css           # Styles
-├── script.js           # JavaScript logic
-└── sounds/             # Drum sound files
-    ├── tom-1.mp3
-    ├── tom-2.mp3
-    ├── tom-3.mp3
-    ├── tom-4.mp3
-    ├── snare.mp3
-    ├── crash.mp3
-    └── kick-bass.mp3
-
 🚀 How to Run Locally
 
 1️⃣ Clone the repository:
