@@ -25,7 +25,7 @@ Link: https://hamdanibra.github.io/drum-kit/
 
 👨‍💻 Author
 
-Created by Hamdan Ibra.Feel free to contribute or fork the project!
+Created by Ibrahim Hamdan Feel free to contribute or fork the project!
 
 ⭐ If you like it, give the repo a star on GitHub!
 
